@@ -6,13 +6,10 @@
 <img src="https://github.com/user-attachments/assets/90102809-85b4-4ec7-a55f-9c16c56a4ac8" alt="heart" width="35" height="35">
 
 ##
-  💜 A 3rd year student taking BS Computer Science.  
-  🔭 Currently working on myself.  
-  🌱 Currently learning: mobile app development, cybersecurity and other stuffs.
-
-
-
-💜 A 3rd year student taking BS Computer Science.<br>🔭 Currently working on myself.<br>🌱 Currently learning mobile app development, cybersecurity and other stuffs.
+  💜 A 3rd year student taking BS Computer Science  
+  🔭 Currently working on myself  
+  🌱 Currently learning: mobile app development, cybersecurity and other stuffs   
+  📷 Loves to take pictures
 
 
 # 📊 Stats:
