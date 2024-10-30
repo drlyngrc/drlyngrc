@@ -7,7 +7,7 @@
 
 ##
   💜 A 3rd year student taking BS Computer Science  
-  🔭 Currently working on myself  
+  🔭 Currently finding myself  
   🌱 Currently learning: mobile app development, cybersecurity and other stuffs   
   📷 Loves to take pictures
 
