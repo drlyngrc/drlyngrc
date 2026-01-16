@@ -6,11 +6,10 @@
 <img src="https://github.com/user-attachments/assets/90102809-85b4-4ec7-a55f-9c16c56a4ac8" alt="heart" width="35" height="35">
 
 ##
-  💜 A BS Computer Science student 
+💜 A BS Computer Science student  
   🔭 Still finding myself  
   🌱 Currently learning: mobile app development, cybersecurity and other stuffs   
   📷 Loves to take pictures
-
 
 
 <!--![](https://github-readme-stats.vercel.app/api?username=drlyngrc&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
